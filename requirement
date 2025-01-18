@@ -1,0 +1,7 @@
+# List of dependencies
+streamlit
+pandas
+matplotlib
+torch
+kafka-python
+scikit-learn
