@@ -12,7 +12,7 @@ This project detects fraudulent activities in e-commerce transactions using Grap
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fraud-detection-system.git
+   git clone https://github.com/Sudhanshu1805/fraud-detection-system.git
    cd fraud-detection-system
    ```
 2. Install dependencies:
